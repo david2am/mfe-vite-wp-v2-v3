@@ -1,7 +1,7 @@
 <script setup>
 import Footer from "remote/Footer";
-//import { defineAsyncComponent } from "vue";
-//const Footer = defineAsyncComponent(() => import("app2/Footer"));
+// import { defineAsyncComponent } from "vue";
+// const Footer = defineAsyncComponent(() => import("remote/Footer"));
 </script>
 
 <template>
